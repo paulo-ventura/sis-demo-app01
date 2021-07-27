@@ -43,3 +43,6 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+
+#LFTP Deploy Script
+lftp-deploy.sh
